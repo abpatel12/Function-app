@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Azure Function App – CI/CD with Azure DevOps
 
 A .NET-based Azure Function App deployed end-to-end using Azure DevOps Pipelines (CI) and Azure DevOps Releases (CD), with two live functions: an **HTTP Trigger** and a **Timer Trigger**.
